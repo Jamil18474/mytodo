@@ -26,3 +26,4 @@ cloud/kubernetes/mytodo-community.yaml
 # Miscellaneous
 myreadme.txt
 .editorconfig
+.idea
